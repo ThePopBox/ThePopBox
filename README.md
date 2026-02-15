@@ -1,16 +1,14 @@
-## Hi there 👋
+<b>Hello There</b> 👋
 
-<!--
-**ThePopBox/ThePopBox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ronnie, a software developer base in Canada
 
-Here are some ideas to get you started:
+This profile is a showcase for some of the more completed projects I've worked on
+<hr>
+<b>Tools & Tech</b>
+<ul>
+  <li>Main Languages: Java, JavaScript, PHP, CSS, C#, Python </li>
+  <li>Digital Modeling: Adobe Substance Modeler, 3D Scanning, Resin Printing, Exocad, Figma</li>
+  <li>Game Development: Unreal Engine 4.27.2 / 5.1, Steam Subsystem Integration, C++, Blueprint Coding</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
