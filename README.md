@@ -12,3 +12,7 @@ This profile is a showcase for some of the more completed projects I've worked o
 </ul>
 
 <hr>
+<b>About Me</b>
+<ul>
+  <li>⚙ Automating random things is something I just do </li>
+</ul>
