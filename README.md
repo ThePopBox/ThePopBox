@@ -5,6 +5,7 @@ I'm Ronnie, a software developer base in Canada
 This profile is a showcase for some of the more completed projects I've worked on
 <hr>
 <b>Tools & Tech</b>
+
 <ul>
   <li>Main Languages: Java, JavaScript, PHP, CSS, C#, Python </li>
   <li>Digital Modeling: Adobe Substance Modeler, 3D Scanning, Resin Printing, Exocad, Figma</li>
@@ -13,6 +14,7 @@ This profile is a showcase for some of the more completed projects I've worked o
 
 <hr>
 <b>About Me</b>
+
 <ul>
   <li>⚙ Automating random things is something I just do </li>
 </ul>
